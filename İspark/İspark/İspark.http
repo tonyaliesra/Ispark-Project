@@ -1,0 +1,6 @@
+@İspark_HostAddress = http://localhost:5216
+
+GET {{İspark_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

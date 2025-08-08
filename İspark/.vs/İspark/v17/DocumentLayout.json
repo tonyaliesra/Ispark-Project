@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\extensions\\presentationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\extensions\\presentationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\datas\\dataserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\datas\\dataserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\businessserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\businessserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\campaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\campaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\datas\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\newsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\campaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\campaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\controllers\\getnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\controllers\\getnewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\controllers\\getcampaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\controllers\\getcampaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\business\\icampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\business\\icampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\inewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\repositories\\icampaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\repositories\\icampaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\campaignlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\campaignlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\campaigndetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\campaigndetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\newslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\newslistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\newsdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\newsdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\model\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\model\\errorcodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|c:\\users\\monster\\onedrive\\masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1829E3-3248-4885-81CD-BE927DE79360}|\u0130spark\\\u0130spark.csproj|solutionrelative:\u0130spark\\middleware\\requestresponseloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\appsettings.json",
+              "RelativeDocumentMoniker": "\u0130spark\\appsettings.json",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\appsettings.json",
+              "RelativeToolTip": "\u0130spark\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T08:12:49.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\News.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\News.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\News.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:23:18.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\Users.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:04:44.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Program.cs",
+              "RelativeToolTip": "\u0130spark\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:09:16.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PresentationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Extensions\\PresentationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Extensions\\PresentationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Extensions\\PresentationServiceExtensions.cs",
+              "RelativeToolTip": "\u0130spark\\Extensions\\PresentationServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:56:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\BusinessServiceExtensions.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\BusinessServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\BusinessServiceExtensions.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\BusinessServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:59:14.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Datas\\DataServiceExtensions.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Datas\\DataServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Datas\\DataServiceExtensions.cs",
+              "RelativeToolTip": "\u0130spark\\Datas\\DataServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:59:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\NewsService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\NewsService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\NewsService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\NewsService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:55:06.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\ServiceResult.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\ServiceResult.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\ServiceResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:16:32.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CampaignService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\CampaignService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\CampaignService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\CampaignService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\CampaignService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:23:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Datas\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Datas\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Datas\\AppDbContext.cs",
+              "RelativeToolTip": "\u0130spark\\Datas\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:50:09.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\UserService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\UserService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\UserService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\UserService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:02:59.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Services\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Services\\LoggerService.cs",
+              "RelativeToolTip": "\u0130spark\\Services\\LoggerService.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAkwHgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:17:09.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "\u0130spark\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T17:52:50.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\Campaign.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\Campaign.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\Campaign.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\Campaign.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:05:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\NewsRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\NewsRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\NewsRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\NewsRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvy0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:47:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CampaignRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\CampaignRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\CampaignRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\CampaignRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\CampaignRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:19:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "\u0130spark\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:01:12.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "\u0130spark\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:18:17.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCampaignController.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\GetCampaignController.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Controllers\\GetCampaignController.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\GetCampaignController.cs",
+              "RelativeToolTip": "\u0130spark\\Controllers\\GetCampaignController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:29:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetNewsController.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\GetNewsController.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Controllers\\GetNewsController.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Controllers\\GetNewsController.cs",
+              "RelativeToolTip": "\u0130spark\\Controllers\\GetNewsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:30:34.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\IUserService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\IUserService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\IUserService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\IUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:02:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\INewsService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\INewsService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\INewsService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:54:38.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICampaignService.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\ICampaignService.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Business\\ICampaignService.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Business\\ICampaignService.cs",
+              "RelativeToolTip": "\u0130spark\\Business\\ICampaignService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:22:48.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:54:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:53:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\INewsRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\INewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:46:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICampaignRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\ICampaignRepository.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Repositories\\ICampaignRepository.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Repositories\\ICampaignRepository.cs",
+              "RelativeToolTip": "\u0130spark\\Repositories\\ICampaignRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:19:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CampaignListDto.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\CampaignListDto.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\CampaignListDto.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\CampaignListDto.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\CampaignListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:05:10.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CampaignDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\CampaignDetailDto.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\CampaignDetailDto.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\CampaignDetailDto.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\CampaignDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:30:15.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\UserLoginDto.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:17:59.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NewsListDto.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\NewsListDto.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\NewsListDto.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\NewsListDto.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\NewsListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:06:32.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NewsDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\NewsDetailDto.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\NewsDetailDto.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\NewsDetailDto.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\NewsDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:07:03.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorMessages.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorMessages.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\ErrorMessages.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorMessages.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\ErrorMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T08:15:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorDetails.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:16:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ErrorCodes.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorCodes.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Model\\ErrorCodes.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Model\\ErrorCodes.cs",
+              "RelativeToolTip": "\u0130spark\\Model\\ErrorCodes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:14:45.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RequestResponseLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "\u0130spark\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\OneDrive\\Masa\u00FCst\u00FC\\\u0130spark\\\u0130spark\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "RelativeToolTip": "\u0130spark\\Middleware\\RequestResponseLoggingMiddleware.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:01:43.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

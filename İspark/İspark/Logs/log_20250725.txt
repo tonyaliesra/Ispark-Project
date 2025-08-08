@@ -1,0 +1,44 @@
+16:25:13 [INF] [REQUEST] GET /swagger/index.html
+16:25:13 [INF] [RESPONSE] 200 (57ms) | Path: GET /swagger/index.html
+16:25:13 [INF] [REQUEST] GET /swagger/v1/swagger.json
+16:25:13 [INF] [RESPONSE] 200 (56ms) | Path: GET /swagger/v1/swagger.json
+16:25:26 [INF] [REQUEST] POST /api/Auth/login | Body: { "user_name": "esra.", "password": "***"}
+16:25:27 [ERR] [ERROR] User: esra. → POST /api/Auth/login → Status: USERNAME INCORRECT
+16:25:27 [INF] [RESPONSE] 401 (1017ms) | Path: POST /api/Auth/login
+16:25:32 [INF] [REQUEST] POST /api/Auth/login | Body: { "user_name": "esra.", "password": "***"}
+16:25:33 [ERR] [ERROR] User: esra. → POST /api/Auth/login → Status: INVALID USER
+16:25:33 [INF] [RESPONSE] 401 (22ms) | Path: POST /api/Auth/login
+16:25:36 [INF] [REQUEST] POST /api/Auth/login | Body: { "user_name": "esra", "password": "***"}
+16:25:36 [ERR] [ERROR] User: esra → POST /api/Auth/login → Status: PASSWORD INCORRECT
+16:25:36 [INF] [RESPONSE] 401 (55ms) | Path: POST /api/Auth/login
+16:26:18 [INF] [REQUEST] POST /api/Auth/login | Body: { "user_name": "esra", "password": "***"}
+16:26:18 [INF] [INFO] User: Esra → POST /api/Auth/login → Status: SUCCESSFUL - Token: eyJhb...OcHWs
+16:26:18 [INF] [RESPONSE] 200 (23ms) | Path: POST /api/Auth/login
+16:26:38 [INF] [REQUEST] GET /api/getnews
+16:26:38 [INF] [INFO] News → ID: 1 | Title: "İstanbulkart Mobil’de Ücretsiz Para Transferi Devri Başladı!" | Desc1: "İstanbulkart" | Desc2: "İstanbulkart Mobil’de " | Image: https://r.resimlink.com/pEsZheuD5L.png
+16:26:38 [INF] [INFO] News → ID: 2 | Title: "İspark Mobil Uygulaması Yayında" | Desc1: "Artık tüm park işlemlerinizi mobil uygulama üzerinden yapabilirsiniz." | Desc2: "İspark Mobil " | Image: https://r.resimlink.com/pEsZheuD5L.png
+16:26:38 [INF] [INFO] News → ID: 3 | Title: "Park Süresi Artık Mobilden Uzatılabiliyor" | Desc1: "Yoğunlukta park süresini telefonla uzatma özelliği eklendi." | Desc2: "Park Süresi " | Image: https://r.resimlink.com/pEsZheuD5L.png
+16:26:38 [INF] [INFO] News → ID: 4 | Title: "Elektrikli Araçlar İçin Yeni Alanlar" | Desc1: "Elektrikli araç sahiplerine özel " | Desc2: "Elektrikli Araçlar " | Image: https://r.resimlink.com/pEsZheuD5L.png
+16:26:38 [INF] [RESPONSE] 200 (33ms) | Path: GET /api/getnews
+16:26:43 [INF] [REQUEST] GET /api/getnews/1
+16:26:43 [WRN] [ERROR] Invalid or missing token. ? User: unknown ? GET /api/getnews/1
+16:26:43 [INF] [RESPONSE] 401 (10ms) | Path: GET /api/getnews/1
+16:26:51 [INF] [REQUEST] GET /api/getnews/1
+16:26:52 [INF] [INFO] News detail viewed. → User: Esra | ID: 1 | Title: "İstanbulkart Mobil’de Ücretsiz Para Transferi Devri Başladı!" | Desc1: "İstanbulkart" | Desc2: "İstanbulkart Mobil’de " | Image: https://r.resimlink.com/pEsZheuD5L.png
+16:26:52 [INF] [RESPONSE] 200 (23ms) | Path: GET /api/getnews/1
+16:26:57 [INF] [REQUEST] GET /api/getnews/16
+16:26:57 [WRN] [ERROR] News not found. → User: Esra → /api/Getnews/16 → News ID: 16
+16:26:57 [INF] [RESPONSE] 404 (8ms) | Path: GET /api/getnews/16
+16:27:43 [INF] [REQUEST] GET /api/getcampaign/2ff
+16:27:43 [WRN] [ERROR] Invalid ID format. ? User: Esra ? GET /api/getcampaign/2ff
+16:27:43 [INF] [RESPONSE] 400 (7ms) | Path: GET /api/getcampaign/2ff
+16:27:46 [INF] [REQUEST] GET /api/getcampaign/2
+16:27:46 [INF] [INFO] Campaign detail viewed. → User: Esra | ID: 2 | Title: "Yaz Tatili Kampanyası" | Desc1: "Tüm şehir otoparklarında indirim!" | Desc2: "3 saat üzeri parklar %30 indirimli." | Image: - | Start: 7/1/2025 12:00:00 AM | End: 8/31/2025 12:00:00 AM
+16:27:46 [INF] [RESPONSE] 200 (26ms) | Path: GET /api/getcampaign/2
+16:27:50 [INF] [REQUEST] GET /api/getcampaign
+16:27:50 [INF] [INFO] Campaign → ID: 1 | Title: "İstanbul'da Park Et Devam Et Devri!" | Desc1: "Seçili İSPARK P+D otoparklarında aracını park et, İstanbulkart’ın ile toplu taşımaya devam et, otopark ücretinin %50 indirimli öde." | Desc2: "Kampanyaya katılabilmek için araç plakasının İstanbulkart Mobil’deki (https://bit.ly/-ParkD) Bilgilerim’’ kısmına eklenmiş olması gerekmektedir." | Image: - | Start: 2024-03-19 | End: 2025-12-31
+16:27:50 [INF] [INFO] Campaign → ID: 2 | Title: "Yaz Tatili Kampanyası" | Desc1: "Tüm şehir otoparklarında indirim!" | Desc2: "3 saat üzeri parklar %30 indirimli." | Image: - | Start: 2025-07-01 | End: 2025-08-31
+16:27:50 [INF] [RESPONSE] 200 (14ms) | Path: GET /api/getcampaign
+16:27:56 [INF] [REQUEST] GET /api/getcampaignsf
+16:27:56 [WRN] [ERROR] URL not found. ? /api/getcampaignsf
+16:27:56 [INF] [RESPONSE] 404 (3ms) | Path: GET /api/getcampaignsf
